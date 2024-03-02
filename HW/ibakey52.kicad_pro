@@ -419,7 +419,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ibakey54.kicad_pro",
+    "filename": "ibakey52.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -500,7 +500,7 @@
       ""
     ],
     [
-      "d4c1d198-b64d-4f4b-99cd-018b9709ed79",
+      "59017836-350d-4c98-a7a5-d77ac5c329a2",
       "Keys"
     ]
   ],
