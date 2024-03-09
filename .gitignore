@@ -1,3 +1,5 @@
 *.zip
 *.gbr
 */outputs
+*fp-info-cache
+*.lck
