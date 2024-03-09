@@ -1,4 +1,4 @@
-24032303613681668
+24039143649403835
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -5877,7 +5877,7 @@ PJ-320A
 
 
 0
-4
+6
 4
 CONN-THT-JACK
 SJ-43514
@@ -5893,6 +5893,13 @@ CONN-USB
 0
 20
 20
+CONN-USB
+GCT_USB4520-03-0-A_REVA
+
+
+0
+16
+13
 CONN-USB
 GSB12121RSKHR
 USB2.0 A RECEPT,RIGHT ANGLE TYPE
@@ -64042,6 +64049,13 @@ THT
 0
 4
 2
+JUMPER
+SJMP1.3mm
+
+
+0
+2
+2
 Jumper
 SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
@@ -91125,6 +91139,20 @@ SWI-PB-5156TR
 0
 5
 2
+SWITCH-SMD-PB
+EVQ-PUL02K
+
+
+0
+4
+2
+SWITCH-SMD-SLIDE
+SSSS811101
+
+
+0
+7
+4
 SWITCH-SMD-TACTILE
 SKSTAJE010
 
